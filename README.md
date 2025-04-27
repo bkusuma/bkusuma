@@ -7,7 +7,7 @@
 - [ ] Learn Science
 - [x] Profess
 
-**BTW did you know Markdown has footnotes?** [^1]
+**BTW did you know GitHub Flavored Markdown has footnotes?** [^1]
 
 ### 📫 Drop me a message on [![alt text](https://static.licdn.com/aero-v1/sc/h/aahlc8ivbnmk0t3eyz8as5gvr)](https://www.linkedin.com/in/bkusuma/)
 
