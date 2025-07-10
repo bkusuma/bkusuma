@@ -3,15 +3,19 @@
 ## 👨🏾‍💻 Data Science Professional
 ### I'm a data scientist passionate about building models that solve real-world problems.
 
-🔭 I just finished a data science bootcamp and currently:
+🔭 **I just finished a data science bootcamp and currently:**
 - Analyzing music lyrics
 - Exploring full and part-time opportunities 
 - Building cool things
 
-- 🌱 Some projects I'm excited to share:
-  1. My bootcamp capstone: A [classifier](https://github.com/bkusuma/lyric-frequency-classifier) using lyric count vectors as input 
-  2. A [classifier](https://github.com/bkusuma/home-credit-default-risk) for Home Credit Group's Kaggle competition asking is a given applicant capable of repaying a loan?
-  3. GitHub [template](https://github.com/bkusuma/kaggle-competition-template) I created for others to be able to use for Kaggle competitions, aligning with Kaggle's own file structure
+
+🌱 **Some projects I'm excited to share:**
+  1. My bootcamp capstone: lyrical genre [classification model](https://github.com/bkusuma/lyric-frequency-classifier)
+     * Separates songs into top 10 genres based on lyric count vectors as input
+  2. A [classification model](https://github.com/bkusuma/home-credit-default-risk) for Home Credit Group's Kaggle competition
+     * Answers the question:  is a given applicant capable of repaying a loan?
+  3. GitHub [template](https://github.com/bkusuma/kaggle-competition-template) aligning with Kaggle's own file structure
+     * I created this for others to be able to use for Kaggle competitions
 
 BTW did you know GitHub Flavored Markdown has footnotes? [^1]
 
