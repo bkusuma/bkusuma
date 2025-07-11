@@ -3,6 +3,14 @@
 ## 👨🏾‍💻 Data Science Professional
 ### I'm a data scientist passionate about building models that solve real-world problems.
 
+
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
+| Data Analysis & Modeling | Exploratory Data Analysis, Machine Learning, Tensorflow, Pytorch, Transformers (HuggingFace), Pandas, NumPy, A/B testing, Tableau |
+| Databases & Deployment   | SQL (MySQL, PostgreSQL, SQLite), AI Deployment, Docker                                                                            |
+| Digital & Social Media   | Hootsuite, Social Media Strategy, Google Analytics, Sprout Social                                                                 |
+| Programming Languages    | Python                                                                                                                            |
+
+
 🔭 **I just finished a data science bootcamp and currently:**
 - Analyzing music lyrics
 - Exploring full and part-time opportunities 
